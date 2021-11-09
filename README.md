@@ -8,4 +8,5 @@ It's functions:
 4) Brutforce FTP
 5) Bruteforce SSH
 6) Bruteforce email accounts
-This is made by b3avers but edited by chroma
+
+Made by b3avers, edited by chroma
