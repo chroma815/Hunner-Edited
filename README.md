@@ -10,3 +10,12 @@ It's functions:
 6) Bruteforce email accounts
 
 Made by b3avers, edited by chroma
+
+
+How to run: Open terminal, run command git clone https://github.com/chroma815/Hunner-Edited
+
+Now type cd Hunner-Edited
+
+Now type python3 hunner.py
+
+(You must have python3 for this to work.)
