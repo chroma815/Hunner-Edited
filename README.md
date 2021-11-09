@@ -19,3 +19,5 @@ Now type cd Hunner-Edited
 Now type python3 hunner.py
 
 (You must have python3 for this to work.)
+
+The method also only works on Linux, you have to use a different method to run this for windows.
